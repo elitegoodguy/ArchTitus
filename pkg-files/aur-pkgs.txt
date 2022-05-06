@@ -9,3 +9,4 @@ ttf-windows
 snapper-gui-git
 zoom
 teams
+gdm-settings
